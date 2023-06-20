@@ -1,0 +1,23 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+
+img {
+    position: absolute;
+    size: cover;
+    height: auto;
+    width: 100%;
+}
+h1{
+    color: black;
+}
+
+.container {
+    opacity: 0.5;
+    background: white;
+    padding: 20px 40px;
+}
